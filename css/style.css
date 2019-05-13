@@ -1,0 +1,13 @@
+
+
+main{
+    background: black;
+}
+
+a{
+    color: orange !important;
+}
+
+.avatar{
+    width: -webkit-fill-available;
+}
